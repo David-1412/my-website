@@ -1,0 +1,5 @@
+Testing to see if git push is working correctly
+
+
+git config --global user.email "davidpan1412@gmail.com"
+git config --global user.name "David Pan"
